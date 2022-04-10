@@ -52,7 +52,7 @@ nav, ul {
 }
 
 .hero {
-  background-image: url(images/hero.jpg);
+  background-image: url("hero.jpg");
   background-size: cover;
   min-height: 100vh;
   color: white;
